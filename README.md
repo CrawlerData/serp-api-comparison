@@ -11,6 +11,9 @@ Plain comparisons of Google search APIs, SERP APIs and search APIs for AI agents
 | [Serper alternatives](serper-alternatives.md) | You use Serper and need more endpoints, other engines or an MCP server |
 | [Google Custom Search JSON API replacements](google-custom-search-api-replacements.md) | Your code calls `customsearch/v1`, which is closed to new customers and shuts down on January 1, 2027 |
 | [Search APIs for AI agents and MCP](search-apis-for-ai-agents-mcp.md) | You're giving an LLM agent a search tool |
+| [Bing Search API replacements](bing-search-api-replacements.md) | Your code called `api.bing.microsoft.com`, retired on August 11, 2025 |
+| [DataForSEO alternatives for SERP data](dataforseo-alternatives.md) | You want live results without the Live premium, or a simpler API |
+| [Google AI Overview APIs](google-ai-overview-apis.md) | You track whether Google shows an AI Overview and which sites it cites |
 
 ## How we write these
 
